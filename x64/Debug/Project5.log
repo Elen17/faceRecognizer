@@ -1,0 +1,25 @@
+﻿  VideoRecognizer.cpp
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(44,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(46,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(47,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(53,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(70,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(71,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\OpenCV\build\include\opencv2\include_seeta\face_identification.h(82,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Elen\source\repos\Project5\Project5\VideoRecognizer.cpp(151,61): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Elen\source\repos\Project5\Project5\VideoRecognizer.cpp(151,48): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Elen\source\repos\Project5\Project5\VideoRecognizer.cpp(164,47): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elen\source\repos\Project5\Project5\VideoRecognizer.cpp(166,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elen\source\repos\Project5\Project5\VideoRecognizer.cpp(188,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Elen\source\repos\Project5\Project5\VideoRecognizer.cpp(292,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+SVMClassifier.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library C:\Users\Elen\source\repos\Project5\x64\Debug\faceRecognizerFromBase.lib and object C:\Users\Elen\source\repos\Project5\x64\Debug\faceRecognizerFromBase.exp
+  Project5.vcxproj -> C:\Users\Elen\source\repos\Project5\x64\Debug\faceRecognizerFromBase.exe
